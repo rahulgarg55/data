@@ -1,0 +1,4 @@
+com/bezkoder/spring/mssql/repository/TutorialRepository.class
+com/bezkoder/spring/mssql/model/Tutorial.class
+com/bezkoder/spring/mssql/SpringBootSqlServerApplication.class
+com/bezkoder/spring/mssql/controller/TutorialController.class
